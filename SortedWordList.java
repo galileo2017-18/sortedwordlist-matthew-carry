@@ -1,5 +1,5 @@
 public class main(String[] args) {
-import java.util.ArrayList;
+import java.util.Array.List;
 
 public class SortedWordList extends ArrayList<String>
 {
